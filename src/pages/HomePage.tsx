@@ -82,9 +82,9 @@ export function HomePage() {
               <div className="rounded-[2.5rem] overflow-hidden shadow-2xl relative group">
                 <img 
                   id="about-image"
-                  src="https://images.unsplash.com/photo-1595841696667-aa69a1939998?auto=format&fit=crop&q=80" 
-                  alt="Organization in action" 
-                  className="w-full h-[600px] object-cover transition-transform duration-700 group-hover:scale-105"
+                  src="https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&q=80" 
+                  alt="Modern Agribusiness in Malawi" 
+                  className="w-full h-[600px] object-cover transition-transform duration-1000 group-hover:scale-110"
                 />
                 <div className="absolute inset-0 bg-primary/20 group-hover:bg-transparent transition-colors duration-500" />
               </div>
